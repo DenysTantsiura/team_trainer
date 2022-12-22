@@ -1,2 +1,2 @@
 # start
-proHello!
+print('Hello!')
